@@ -327,7 +327,7 @@ const teamMembers = [
   {
     id: 5,
     name: "Robert Doe",
-    position: "Design",
+    position: "Designer",
     category: "design",
     img: "img/team/team-5.jpg",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.",
